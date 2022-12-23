@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-image: url("https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif");
+  background-size: cover;
+}
+
+.about_p {
+  font-family: "Caveat", cursive;
+  font-size: 25px;
+}
+.exp_a {
+  color: black;
+  text-decoration: none;
+}
+.exp_a:hover {
+  color: rosybrown;
+  font-size: 150%;
+  text-decoration: none;
+}
+.cont_a {
+  color: seagreen;
+}
+.cont_a:hover {
+  color: springgreen;
+}
